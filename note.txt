@@ -1,0 +1,159 @@
+NAME - UGWUIBE SOLOMON
+GROUP - 21
+LLM - Kimi
+EMAIL - ugwuibesolomon@gmail.com
+
+
+Assignment 2 - Personal portfolio site
+Hey Kimi
+
+prompt 1 - Logo
+Create a perfect design logo for my portfolio website called “PabTech” 
+
+Prompt 2 - styling of the logo
+Using Tailwind css place the logo at the top-left corner of the landing page inside the header section. Ensure it aligned properly and have enough spacing from the edges of the screen 
+
+Prompt 3 - Create a navigation
+Create a navigation bar that is functional for the portfolio landing page. The navigation bar should contain:
+- Home
+- About 
+- Project
+- Contact 
+- Skills
+
+Prompt 4 - Styling of the navigation
+Style the navigation bar with a white background with opacity and black text color, add hover effect and active state to all the navigation bar.
+Make the navigation bar sticky and responsive on desktop screens and use a menu icon for the mobile screen and tablet.
+
+Prompt 5 - Create a Hero section
+THE HERO SECTION 
+Create a hero section for the portfolio landing page, the hero section should occupy 100vh minus from the header section of the height and 100% width. Add a perfect image for the background that suit the portfolio website.
+
+Prompt 6 - Content for the Hero section
+Add the following content on the hero section:
+Heading: “Hello I’m Solomon
+Paragraph: “Turning ideas into interactive websites through code, creativity, and continuous learning”
+Button: Download CV
+
+Prompt 7 - Hero styling
+Hero styling - 
+Add smooth spacing, modern typography to the hero section. Make the design attractive 
+
+THE ABOUT SECTION 
+Prompt 8 - Create About section
+Create an about section for the portfolio landing page and make the navigation bar About to navigate to the section. 
+
+Prompt 9 - Partitioning of the Hero section
+Partition the section into two sections for the desktop screens horizontally and for the mobile screen vertically.
+
+Left section:
+Add a nice image that will suit the about section. Add a 50% rounded on the image with a nice border color.
+
+Right section:
+Hi, I'm Ugwuibe Solomon Ebuka, a passionate Full Stack Developer from Enugu State, Nigeria. I enjoy transforming ideas into functional, responsive, and user-friendly web applications.
+
+My journey in technology is driven by curiosity, continuous learning, and a desire to solve real-world problems through code. I have experience working with HTML, CSS, Tailwind CSS, Git, and GitHub, and I am constantly expanding my skills in both frontend and backend development.
+
+Beyond coding, I believe in consistency and growth. Through my 60-Day Build in Public challenge, I share my learning process, projects, and experiences as I continue developing my expertise in software engineering.
+
+I am always excited to take on new challenges, collaborate with others, and create digital solutions that make a meaningful impact.
+
+Prompt 10 - About Styling
+Use a light background color that will match with the hero section, and text color black 
+
+THE PROJECT SECTION 
+Prompt 11 - Create project section
+Create a project section for the portfolio landing page with a Heading “My Project” and ensure the project navigation bar navigate to the section.
+
+Prompt 12 - Cards for the section
+Create a 6 cards of a complete project, each project card should show a high level summary of what the project set out to solve 
+
+Prompt 13 - Each card description
+In each project cards should the following 
+- project image
+- Project name
+- Skills used for the project 
+- GitHub repo
+- Live URL
+It should also show how it went about, from the design to coding to delivery
+
+Prompt 14 - About styling
+About Styling- 
+Add a hover effect on each cards, with a rounded corner, spacing, and modern responsive grid layouts. 
+
+Ensure the cards are responsive on smaller screens and tablets 
+
+SKILLS SECTION 
+Prompt 15 - Create Skills section
+Create a skill section for the portfolio landing page, with a heading “My Skills”. Ensure the navigation bar navigate to the section.
+
+Prompt 16 - Each card description
+Create 6 skills cards with an icon that is suitable for each card
+Items for the 6 cards:
+- Html 
+- Css
+- Tailwind css
+- GitHub 
+- AI Annotation 
+- JavaScript 
+Include icon that is suitable for each card items 
+
+Prompt 17 - Skills section styling
+Style all skills cards with soft shadow, rounded corners, hover animations, spacing and modern responsive grid layouts. Use nice background colors for the cards 
+
+THE CONTACT SECTION 
+Prompt 18 - Create the section
+Create a contact section for the portfolio landing page with a Heading “My Contact” Ensure the navigation link navigate to the section.
+
+Prompt 19 - first Partitioning of the section
+Partition 
+This section should be partitioned into two sections 
+The left section:
+A form that will contain the following 
+- Fullname
+- Email 
+- Subject 
+- Message 
+- Submit button 
+The left section styling-
+Add a rounded corner, remove the outline from the form, Add a placeholder:
+- Fullname - Enter your full name
+- Email- Examlpe@gmail.com
+- Message- Enter comment
+
+Prompt 20 - Second Partitioning of the section
+The right section:
+Subheading: “connect with me
+Email: ugwuibesolomon@gmail.com
+08167358425
+Location: Udi, Enugu state, Nigeria
+With a social media icons 
+
+Prompt 21 - Contact styling
+Contact styling-
+Style the contact section with a nice background color, spacing and responsive layout both on mobile screen and desktop screen 
+
+FOOTER SECTION 
+Prompt 22 - Create a footer section
+Create a  professional footer section for the portfolio landing page 
+
+prompt 23 - content for the footer
+Add the following content:
+- Logo - exact logo used for the header 
+- Quick links
+- Social media icons
+- Copyright information 
+
+Prompt 24 - Footer styling
+Footer styling :
+Style the footer with a nice background color 
+Add spacing, hover effects, and responsive layout for mobile desktop screens
+
+
+
+ENGINEERING WORK DONE--
+1.1 - Hero background
+1.1.1 Added a light blue background color
+
+2.1 About section
+2.1.1 Added a image of mine
