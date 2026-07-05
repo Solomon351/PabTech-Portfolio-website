@@ -152,8 +152,25 @@ Add spacing, hover effects, and responsive layout for mobile desktop screens
 
 
 ENGINEERING WORK DONE--
+1.0 Added hover effect on the navigation bar
+
 1.1 - Hero background
-1.1.1 Added a light blue background color
+1.1.1 Added a background image
+1.1.2 Linked my CV repo on the button created for it
+1.1.3 Linked my Profile on the icons created
 
 2.1 About section
 2.1.1 Added a image of mine
+
+3.1 Project section
+3.1.1 Added image for all the card 
+3.1.2 link my GitHub Ropo for each card
+3.1.3 Link my Live URL link 
+3.1.4 Change the content 
+
+4.1 Contact section
+4.1.1 link my social media Profile for the icon created
+
+5.1 Footer section
+5.1.1 Add a hover effect on the navigations
+5.1.2 link my social media Profile for the icon created
